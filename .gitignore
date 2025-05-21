@@ -1,0 +1,6 @@
+# macOS Finder and vi swap files
+.DS_Store
+*.icloud
+*.swp
+*.indd
+*.icml
